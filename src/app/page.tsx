@@ -42,7 +42,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-semibold mb-3">Slide Puzzle</h3>
                 <hr className="mb-4 border-gray-600 w-full" />
-                <p className="text-gray-300 text-lg leading-relaxed">Challenge your mind with a simple sliding tile puzzle. Unlike other slide puzzles, this one only generates layouts that can be solved. Isn't that non-obnoxious?</p>
+                <p className="text-gray-300 text-lg leading-relaxed">Chizallenge your mind with a simple sliding tile puzzle. Unlike other slide puzzles, this one only generates layouts that can be solved. Isn't that non-obnoxious?</p>
               </div>
             </a>
 
